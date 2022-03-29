@@ -27,3 +27,6 @@ For Course Project, each group can firstly create their own github code repo, an
   - <a href= "http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS249/02Graph_basics.pdf">2Graph_basics.pdf</a> 
 - Part II (4/12 - 5/26): <a href = "/Paper_Presentation">Paper Presentation Schedule</a>
 - Part III (5/31, 6/2): <a href = "/Course_Project">Course Project Schedule</a>
+
+## Previous Offerings
+- Winter 2021: https://github.com/yichousun/Winter2021_CS249_GNN
