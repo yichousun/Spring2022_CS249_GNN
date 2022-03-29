@@ -4,6 +4,12 @@
 
 This is a graduate-level research-oriented course offered in Spring 2022. The course aims to introduce and discuss recent advances in graph neural networks (GNNs), with the goal to design deep learning algorithms for graph data for different graph applications. The course contains lecture time by the instructor covering basics of graph neural networks, and paper reading and presentation by students covering recent GNN papers. The students are expected to conduct a team-based research project related to GNN and present the project to the whole class.
 
+Zoom: Join Zoom Meeting
+https://ucla.zoom.us/j/94865976682?pwd=MTZqM054aG1NeXVhVlFmbnV1WExNQT09
+
+Meeting ID: 948 6597 6682
+Passcode: 447984
+
 ## Course Requirement
 
 In this course, each student will 1) present one GNN-related paper; 2) finish the course project with group. 
