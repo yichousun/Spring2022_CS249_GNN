@@ -17,7 +17,7 @@ For Paper Presentation, the presenter should upload the following files to each 
 - *Slides*: which you use to present at the course. It should contain both the contents of the report and some key results of the code demo. Students are encourage to explore and introduce the background and related work to make the presentation self-contained.
 - *Quiz*: 3 questions about this paper. Please send me the question bank one day before the class, and provide answers and feedback.
 
-Every audience should participate in Q&A after the presentation, and finish the quiz in BruinLearn in class (24 hours grace period).
+Every audience should participate in Q&A after the presentation, and finish the quiz in BruinLearn in class.
 
 For Course Project, each group can firstly create their own github code repo, and then create a subfolder under Course_Project, submit their slides and Github code link under it.
 
