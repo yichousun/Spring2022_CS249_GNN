@@ -18,3 +18,11 @@ Deep Geometric Learning (4 lectures)
 |4/14|2.	Ines Chami, Rex Ying, Christopher Ré, Jure Leskovec, Hyperbolic Graph Convolutional Neural Networks, NeurIPS 2019. https://arxiv.org/abs/1910.12933 ||||||
 |4/19|3.	Shen Wang, Xiaokai Wei, Cicero Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew O. Arnold, Bing Xiang, Philip S. Yu, Isabel F. Cruz, Mixed-curvature multi-relational graph neural network for knowledge graph completion, WWW 2021. https://assets.amazon.science/0c/9d/51d98f1040b1bfa7dc52d1015750/mixed-curvature-multi-relational-graph-neural-network-for-knowledge-graph-completion.pdf ||||||
 |4/21|4.	Victor Garcia Satorras, Emiel Hoogeboom, Max Welling, E(n) Equivariant Graph Neural Networks, ICML’21. https://arxiv.org/abs/2102.09844 ||||||
+
+
+[Optional Reading]
+- Qi Liu, Maximilian Nickel, Douwe Kiela, Hyperbolic Graph Neural Networks, NeurIPS 2019. https://arxiv.org/abs/1910.12892
+-	Ganea et al., Hyperbolic Neural Networks, NeurIPS’18. https://arxiv.org/pdf/1805.09112.pdf
+-	Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković, Geometric deep learning: Grids, groups, graphs, geodesics, and gauges. https://arxiv.org/pdf/2104.13478.pdf. 2021.
+-	Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst, Geometric deep learning: going beyond Euclidean data. https://arxiv.org/pdf/1611.08097.pdf. 2017.
+-	Francesco Di Giovanni, Giulia Luise, Michael Bronstein, Heterogeneous manifolds for curvature-aware graph embedding. https://arxiv.org/abs/2202.01185
