@@ -60,13 +60,13 @@ Every audience should participate in Q&A after the presentation, and finish the 
 |5/19|2.	Xuelu Chen, Ziniu Hu, and Yizhou Sun, Fuzzy Logic based Logical Query Answering on Knowledge Graphs, AAAI 2022. https://arxiv.org/abs/2108.02390 ||||||
 
 [Optional Reading]
-- Samy Badreddine, Artur d’Avila Garcez, Luciano Serafini, Michael Spranger, Logic Tensor Networks, 2021. https://arxiv.org/pdf/2012.13635.pdf. 
+- Samy Badreddine, Artur d’Avila Garcez, Luciano Serafini, Michael Spranger, Logic Tensor Networks, 2021. https://arxiv.org/pdf/2012.13635.pdf.
 
 ###### Algorithms and Programming Languages  (2 lectures)
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
 |5/24|1.	Petar Veličković, Rex Ying, Matilde Padovano, Raia Hadsell, Charles Blundell, Neural Execution of Graph Algorithms. ICLR’ 2020. https://arxiv.org/abs/1910.10593 ||||||
-|5/26|2.	Chris Cummins, Zacharias V. Fisches, Tal Ben-Nun, Torsten Hoefler, Michael F P O’Boyle, Hugh Leather, ProGraML: A Graph-based Program Representation for Data Flow Analysis and Compiler Optimizations, ICML 2021. https://proceedings.mlr.press/v139/cummins21a.html ||||||
+|5/26|2.	Chris Cummins, Zacharias V. Fisches, Tal Ben-Nun, Torsten Hoefler, Michael F P O’Boyle, Hugh Leather, ProGraML: A Graph-based Program Representation for Data Flow Analysis and Compiler Optimizations, ICML 2021. https://proceedings.mlr.press/v139/cummins21a.html |Yu Hou|Yuhan Shao|Wenhe Zhang|Jiaying Li||
 
 [Optional Reading]
 -	Yujia Li et al., Competition-Level Code Generation with AlphaCode, Preprint, 2022. https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf
