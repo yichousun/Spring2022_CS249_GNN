@@ -14,3 +14,4 @@ Deep Geometric Learning (4 lectures)
 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
+|4/12|1.	Maximilian Nickel, Douwe Kiela, Poincaré Embeddings for Learning Hierarchical Representations, NeurIPS 2017. https://arxiv.org/pdf/1705.08039.pdf ||||||
