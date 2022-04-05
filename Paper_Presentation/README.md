@@ -34,7 +34,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 |4/26|1.	Chengxi Zang, Fei Wang, Neural Dynamics on Complex Networks, KDD’20. https://arxiv.org/abs/1908.06491 |Ayushi Agarwal|Harini Suresh|Shardul Parab|||
 |4/28|2.	Zijie Huang, Yizhou Sun, and Wei Wang, Coupled Graph ODE for Learning Interacting System Dynamics, KDD’2021. http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf ||||||
 |5/3|3.	Marten Lienen, Stephan Günnemann, Learning the Dynamics of Physical Systems from Sparse Observations with Finite Element Networks, ICLR 2022. https://openreview.net/forum?id=HFmAukZ-k-2 ||||||
-|5/5|4.	Pablo Lemos, Niall Jeffrey, Miles Cranmer, Shirley Ho, Peter Battaglia, Rediscovering orbital mechanics with machine learning, under review. https://arxiv.org/abs/2202.02306 ||||||
+|5/5|4.	Pablo Lemos, Niall Jeffrey, Miles Cranmer, Shirley Ho, Peter Battaglia, Rediscovering orbital mechanics with machine learning, under review. https://arxiv.org/abs/2202.02306 |Dipti Ranjan Sahu|Siddhant Patil|Nischal Chandra|Shivam Patel||
 
 [Optional Reading]
 -	Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia, Learning to Simulate Complex Physics with Graph Networks, ICML’20. https://arxiv.org/abs/2002.09405
