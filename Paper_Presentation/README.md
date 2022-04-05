@@ -10,7 +10,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 
 ## Schedule
 
-###### Deep Geometric Learning (4 lectures)
+###### Geometric Deep Learning (4 lectures)
 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
