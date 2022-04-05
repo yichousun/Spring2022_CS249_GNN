@@ -10,7 +10,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 
 ## Schedule
 
-######Deep Geometric Learning (4 lectures)
+###### Deep Geometric Learning (4 lectures)
 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
@@ -27,7 +27,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 -	Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst, Geometric deep learning: going beyond Euclidean data. https://arxiv.org/pdf/1611.08097.pdf. 2017.
 -	Francesco Di Giovanni, Giulia Luise, Michael Bronstein, Heterogeneous manifolds for curvature-aware graph embedding. https://arxiv.org/abs/2202.01185
 
-######Dynamical Systems and Physical Simulators (4 lectures)
+###### Dynamical Systems and Physical Simulators (4 lectures)
 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
@@ -40,3 +40,25 @@ Every audience should participate in Q&A after the presentation, and finish the 
 -	Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia, Learning to Simulate Complex Physics with Graph Networks, ICML’20. https://arxiv.org/abs/2002.09405
 -	Zijie Huang, Yizhou Sun, Wei Wang, Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations, NeurIPS 2020. https://proceedings.neurips.cc/paper/2020/hash/ba4849411c8bbdd386150e5e32204198-Abstract.html
 -	Anuroop Sriram, Abhishek Das, Brandon M Wood, Siddharth Goyal, C. Lawrence Zitnick, Towards Training Billion Parameter Graph Neural Networks for Atomic Simulations, ICLR 2022. https://openreview.net/forum?id=0jP2n0YFmKG
+
+###### Causal Inference (2 lectures)
+
+| Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
+| ------ | ------ |------ | ------ |------ | ------ |------ |
+|5/10|1.	Avishek Joey Bose, William Hamilton, Compositional Fairness Constraints for Graph Embeddings, ICML’19. https://proceedings.mlr.press/v97/bose19a.html ||||||
+|5/12|2.	Ying-Xin Wu, Xiang Wang, An Zhang, Xiangnan He, Tat-Seng Chua, Discovering Invariant Rationales for Graph Neural Networks, ICLR 2022. https://arxiv.org/abs/2201.12872 ||||||
+
+[Optional Reading]
+- Matej Zečević, Devendra Singh Dhami, Petar Veličković, Kristian Kersting, Relating Graph Neural Networks to Structural Causal Models, 2022. https://arxiv.org/abs/2109.04173
+
+
+###### Logic and Symbolic Reasoning (2 lectures)
+
+| Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
+| ------ | ------ |------ | ------ |------ | ------ |------ |
+|5/17|1.	Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter, Juan Pablo Silva, The Logical Expressiveness of Graph Neural Networks, ICLR 2020. https://openreview.net/forum?id=r1lZ7AEKvB ||||||
+|5/19|2.	Xuelu Chen, Ziniu Hu, and Yizhou Sun, Fuzzy Logic based Logical Query Answering on Knowledge Graphs, AAAI 2022. https://arxiv.org/abs/2108.02390 ||||||
+
+[Optional Reading]
+- Samy Badreddine, Artur d’Avila Garcez, Luciano Serafini, Michael Spranger, Logic Tensor Networks. https://arxiv.org/pdf/2012.13635.pdf. 2021
+
