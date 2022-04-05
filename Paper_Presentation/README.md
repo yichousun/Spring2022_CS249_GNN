@@ -10,7 +10,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 
 ## Schedule
 
-Deep Geometric Learning (4 lectures)
+######Deep Geometric Learning (4 lectures)
 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
@@ -27,7 +27,7 @@ Deep Geometric Learning (4 lectures)
 -	Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst, Geometric deep learning: going beyond Euclidean data. https://arxiv.org/pdf/1611.08097.pdf. 2017.
 -	Francesco Di Giovanni, Giulia Luise, Michael Bronstein, Heterogeneous manifolds for curvature-aware graph embedding. https://arxiv.org/abs/2202.01185
 
-Dynamical Systems and Physical Simulators (4 lectures)
+######Dynamical Systems and Physical Simulators (4 lectures)
 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
