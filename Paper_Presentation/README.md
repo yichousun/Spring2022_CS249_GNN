@@ -9,3 +9,8 @@ For Paper Presentation, the presenter should upload the following files to each 
 Every audience should participate in Q&A after the presentation, and finish the quiz (homework) using the quiz link after the course.
 
 ## Schedule
+
+Deep Geometric Learning (4 lectures)
+
+| Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
+| ------ | ------ |------ | ------ |------ | ------ |------ |
