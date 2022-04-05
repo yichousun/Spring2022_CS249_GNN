@@ -15,7 +15,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
 |4/12|1.	Maximilian Nickel, Douwe Kiela, Poincaré Embeddings for Learning Hierarchical Representations, NeurIPS 2017. https://arxiv.org/pdf/1705.08039.pdf |Manish Reddy|Nilay Pochhi|Aditya Jain|TBD||
-|4/14|2.	Ines Chami, Rex Ying, Christopher Ré, Jure Leskovec, Hyperbolic Graph Convolutional Neural Networks, NeurIPS 2019. https://arxiv.org/abs/1910.12933 ||||||
+|4/14|2.	Ines Chami, Rex Ying, Christopher Ré, Jure Leskovec, Hyperbolic Graph Convolutional Neural Networks, NeurIPS 2019. https://arxiv.org/abs/1910.12933 |Rustem Aygun|||||
 |4/19|3.	Shen Wang, Xiaokai Wei, Cicero Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew O. Arnold, Bing Xiang, Philip S. Yu, Isabel F. Cruz, Mixed-curvature multi-relational graph neural network for knowledge graph completion, WWW 2021. https://assets.amazon.science/0c/9d/51d98f1040b1bfa7dc52d1015750/mixed-curvature-multi-relational-graph-neural-network-for-knowledge-graph-completion.pdf ||||||
 |4/21|4.	Victor Garcia Satorras, Emiel Hoogeboom, Max Welling, E(n) Equivariant Graph Neural Networks, ICML’21. https://arxiv.org/abs/2102.09844 ||||||
 
