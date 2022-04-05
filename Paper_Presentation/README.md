@@ -6,7 +6,7 @@ For Paper Presentation, the presenter should upload the following files to each 
 - *Slides*: which you use to present at the course. It should contain both the contents of the report and some key results of the code demo.
 - *Quiz*: 3 questions about this paper. Please send me the question bank one day before the class, and provide answers and feedback.
 
-Every audience should participate in Q&A after the presentation, and finish the quiz (homework) using the quiz link after the course.
+Every audience should participate in Q&A after the presentation, and finish the quiz (homework) using the quiz link during the course.
 
 ## Schedule
 
