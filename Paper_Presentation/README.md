@@ -26,3 +26,17 @@ Deep Geometric Learning (4 lectures)
 -	Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković, Geometric deep learning: Grids, groups, graphs, geodesics, and gauges. https://arxiv.org/pdf/2104.13478.pdf. 2021.
 -	Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst, Geometric deep learning: going beyond Euclidean data. https://arxiv.org/pdf/1611.08097.pdf. 2017.
 -	Francesco Di Giovanni, Giulia Luise, Michael Bronstein, Heterogeneous manifolds for curvature-aware graph embedding. https://arxiv.org/abs/2202.01185
+
+Dynamical Systems and Physical Simulators (4 lectures)
+
+| Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
+| ------ | ------ |------ | ------ |------ | ------ |------ |
+|4/26|1.	Chengxi Zang, Fei Wang, Neural Dynamics on Complex Networks, KDD’20. https://arxiv.org/abs/1908.06491 ||||||
+|4/28|2.	Zijie Huang, Yizhou Sun, and Wei Wang, Coupled Graph ODE for Learning Interacting System Dynamics, KDD’2021. http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf ||||||
+|5/3|3.	Marten Lienen, Stephan Günnemann, Learning the Dynamics of Physical Systems from Sparse Observations with Finite Element Networks, ICLR 2022. https://openreview.net/forum?id=HFmAukZ-k-2 ||||||
+|5/5|4.	Pablo Lemos, Niall Jeffrey, Miles Cranmer, Shirley Ho, Peter Battaglia, Rediscovering orbital mechanics with machine learning, under review. https://arxiv.org/abs/2202.02306 ||||||
+
+[Optional Reading]
+-	Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia, Learning to Simulate Complex Physics with Graph Networks, ICML’20. https://arxiv.org/abs/2002.09405
+-	Zijie Huang, Yizhou Sun, Wei Wang, Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations, NeurIPS 2020. https://proceedings.neurips.cc/paper/2020/hash/ba4849411c8bbdd386150e5e32204198-Abstract.html
+-	Anuroop Sriram, Abhishek Das, Brandon M Wood, Siddharth Goyal, C. Lawrence Zitnick, Towards Training Billion Parameter Graph Neural Networks for Atomic Simulations, ICLR 2022. https://openreview.net/forum?id=0jP2n0YFmKG
