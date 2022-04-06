@@ -33,7 +33,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 | ------ | ------ |------ | ------ |------ | ------ |------ |
 |4/26|1.	Chengxi Zang, Fei Wang, Neural Dynamics on Complex Networks, KDD’20. https://arxiv.org/abs/1908.06491 |Ayushi Agarwal|Harini Suresh|Shardul Parab|||
 |4/28|2.	Zijie Huang, Yizhou Sun, and Wei Wang, Coupled Graph ODE for Learning Interacting System Dynamics, KDD’2021. http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf |Yuxin Wu|Xiaxuan Gao|Zhicheng Ren|Yifu Yuan||
-|5/3|3.	Marten Lienen, Stephan Günnemann, Learning the Dynamics of Physical Systems from Sparse Observations with Finite Element Networks, ICLR 2022. https://openreview.net/forum?id=HFmAukZ-k-2 |Alexander Taylor|Armaan Abraham|Ashwath Radhachandran|||
+|5/3|3.	Marten Lienen, Stephan Günnemann, Learning the Dynamics of Physical Systems from Sparse Observations with Finite Element Networks, ICLR 2022. https://openreview.net/forum?id=HFmAukZ-k-2 |Alexander Taylor|Armaan Abraham|Ashwath Radhachandran|Ted Zadouri||
 |5/5|4.	Pablo Lemos, Niall Jeffrey, Miles Cranmer, Shirley Ho, Peter Battaglia, Rediscovering orbital mechanics with machine learning, under review. https://arxiv.org/abs/2202.02306 |Dipti Ranjan Sahu|Siddhant Patil|Nischal Chandra|Shivam Patel||
 
 [Optional Reading]
@@ -46,7 +46,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
 |5/10|1.	Avishek Joey Bose, William Hamilton, Compositional Fairness Constraints for Graph Embeddings, ICML’19. https://proceedings.mlr.press/v97/bose19a.html |Jingdong Gao|Rakesh Bal|Yihang Guo|Wenhan Yang||
-|5/12|2.	Ying-Xin Wu, Xiang Wang, An Zhang, Xiangnan He, Tat-Seng Chua, Discovering Invariant Rationales for Graph Neural Networks, ICLR 2022. https://arxiv.org/abs/2201.12872 |Feiyang Chen|Yongqian Li|Ted Zadouri|Ruoyu He||
+|5/12|2.	Ying-Xin Wu, Xiang Wang, An Zhang, Xiangnan He, Tat-Seng Chua, Discovering Invariant Rationales for Graph Neural Networks, ICLR 2022. https://arxiv.org/abs/2201.12872 |Feiyang Chen|Yongqian Li||Ruoyu He||
 
 [Optional Reading]
 - Matej Zečević, Devendra Singh Dhami, Petar Veličković, Kristian Kersting, Relating Graph Neural Networks to Structural Causal Models, 2022. https://arxiv.org/abs/2109.04173
