@@ -6,7 +6,7 @@ For Paper Presentation, the presenter should upload the following files to each 
 - *Slides*: which you use to present at the course. It should contain both the contents of the report and some key results of the code demo.
 - *Quiz*: 3 questions about this paper. Please send me the question bank one day before the class, and provide answers and feedback.
 
-Every audience should participate in Q&A after the presentation, and finish the quiz (homework) using the quiz link after the course.
+Every audience should participate in Q&A after the presentation, and finish the quiz (homework) using the quiz link during the course.
 
 ## Schedule
 
@@ -14,10 +14,10 @@ Every audience should participate in Q&A after the presentation, and finish the 
 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
-|4/12|1.	Maximilian Nickel, Douwe Kiela, Poincaré Embeddings for Learning Hierarchical Representations, NeurIPS 2017. https://arxiv.org/pdf/1705.08039.pdf |Manish Reddy|Nilay Pochhi|Aditya Jain|TBD||
+|4/12|1.	Maximilian Nickel, Douwe Kiela, Poincaré Embeddings for Learning Hierarchical Representations, NeurIPS 2017. https://arxiv.org/pdf/1705.08039.pdf |Manish Reddy|Nilay Pochhi|Aditya Jain| Brian Tagle||
 |4/14|2.	Ines Chami, Rex Ying, Christopher Ré, Jure Leskovec, Hyperbolic Graph Convolutional Neural Networks, NeurIPS 2019. https://arxiv.org/abs/1910.12933 |Rustem Aygun|||||
 |4/19|3.	Shen Wang, Xiaokai Wei, Cicero Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew O. Arnold, Bing Xiang, Philip S. Yu, Isabel F. Cruz, Mixed-curvature multi-relational graph neural network for knowledge graph completion, WWW 2021. https://assets.amazon.science/0c/9d/51d98f1040b1bfa7dc52d1015750/mixed-curvature-multi-relational-graph-neural-network-for-knowledge-graph-completion.pdf |Sahil Bansal|Vivek Arora|Vaibhav Kumar|Andrei Rekesh|
-|4/21|4.	Victor Garcia Satorras, Emiel Hoogeboom, Max Welling, E(n) Equivariant Graph Neural Networks, ICML’21. https://arxiv.org/abs/2102.09844 ||||||
+|4/21|4.	Victor Garcia Satorras, Emiel Hoogeboom, Max Welling, E(n) Equivariant Graph Neural Networks, ICML’21. https://arxiv.org/abs/2102.09844 |Yu Zhou|Jingchen Tang|Zihao Dong|Guofeng Zhang||
 
 
 [Optional Reading]
@@ -32,8 +32,8 @@ Every audience should participate in Q&A after the presentation, and finish the 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
 |4/26|1.	Chengxi Zang, Fei Wang, Neural Dynamics on Complex Networks, KDD’20. https://arxiv.org/abs/1908.06491 |Ayushi Agarwal|Harini Suresh|Shardul Parab|||
-|4/28|2.	Zijie Huang, Yizhou Sun, and Wei Wang, Coupled Graph ODE for Learning Interacting System Dynamics, KDD’2021. http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf ||||||
-|5/3|3.	Marten Lienen, Stephan Günnemann, Learning the Dynamics of Physical Systems from Sparse Observations with Finite Element Networks, ICLR 2022. https://openreview.net/forum?id=HFmAukZ-k-2 ||||||
+|4/28|2.	Zijie Huang, Yizhou Sun, and Wei Wang, Coupled Graph ODE for Learning Interacting System Dynamics, KDD’2021. http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf |Yuxin Wu|Xiaxuan Gao|Zhicheng Ren|Yifu Yuan||
+|5/3|3.	Marten Lienen, Stephan Günnemann, Learning the Dynamics of Physical Systems from Sparse Observations with Finite Element Networks, ICLR 2022. https://openreview.net/forum?id=HFmAukZ-k-2 |Alexander Taylor|Armaan Abraham|Ashwath Radhachandran|Ted Zadouri||
 |5/5|4.	Pablo Lemos, Niall Jeffrey, Miles Cranmer, Shirley Ho, Peter Battaglia, Rediscovering orbital mechanics with machine learning, under review. https://arxiv.org/abs/2202.02306 |Dipti Ranjan Sahu|Siddhant Patil|Nischal Chandra|Shivam Patel||
 
 [Optional Reading]
@@ -45,8 +45,8 @@ Every audience should participate in Q&A after the presentation, and finish the 
 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
-|5/10|1.	Avishek Joey Bose, William Hamilton, Compositional Fairness Constraints for Graph Embeddings, ICML’19. https://proceedings.mlr.press/v97/bose19a.html |Jingdong Gao|Rakesh Bal|Yihang Guo|||
-|5/12|2.	Ying-Xin Wu, Xiang Wang, An Zhang, Xiangnan He, Tat-Seng Chua, Discovering Invariant Rationales for Graph Neural Networks, ICLR 2022. https://arxiv.org/abs/2201.12872 |Feiyang Chen|Yongqian Li|Ted Zadouri|||
+|5/10|1.	Avishek Joey Bose, William Hamilton, Compositional Fairness Constraints for Graph Embeddings, ICML’19. https://proceedings.mlr.press/v97/bose19a.html |Jingdong Gao|Rakesh Bal|Yihang Guo|Wenhan Yang||
+|5/12|2.	Ying-Xin Wu, Xiang Wang, An Zhang, Xiangnan He, Tat-Seng Chua, Discovering Invariant Rationales for Graph Neural Networks, ICLR 2022. https://arxiv.org/abs/2201.12872 |Feiyang Chen|Yongqian Li|YuanChing Lin|Ruoyu He||
 
 [Optional Reading]
 - Matej Zečević, Devendra Singh Dhami, Petar Veličković, Kristian Kersting, Relating Graph Neural Networks to Structural Causal Models, 2022. https://arxiv.org/abs/2109.04173
@@ -57,7 +57,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
 |5/17|1.	Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter, Juan Pablo Silva, The Logical Expressiveness of Graph Neural Networks, ICLR 2020. https://openreview.net/forum?id=r1lZ7AEKvB |Xinyu Zhao|Haowei Jiang|Nuocheng Pan|Hang Zhang||
-|5/19|2.	Xuelu Chen, Ziniu Hu, and Yizhou Sun, Fuzzy Logic based Logical Query Answering on Knowledge Graphs, AAAI 2022. https://arxiv.org/abs/2108.02390 |Baiting Zhu|Zongyang Yue||||
+|5/19|2.	Xuelu Chen, Ziniu Hu, and Yizhou Sun, Fuzzy Logic based Logical Query Answering on Knowledge Graphs, AAAI 2022. https://arxiv.org/abs/2108.02390 |Baiting Zhu|Zongyang Yue|Jessica Ho|||
 
 [Optional Reading]
 - Samy Badreddine, Artur d’Avila Garcez, Luciano Serafini, Michael Spranger, Logic Tensor Networks, 2021. https://arxiv.org/pdf/2012.13635.pdf.
