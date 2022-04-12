@@ -4,6 +4,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | Team ID | Team Name | Team Members | Team Leader | Project Title (TBD) |
 | ------ | ------ | ------ | ------ | ------ |
 | 1 | Boba | Jessica Ho (jessicaho44@g.ucla.edu), Wenqi Zou (wenqizou625@g.ucla.edu), Rosa Garza (rgarza96@g.ucla.edu) | Jessica Ho (jessicaho44@g.ucla.edu) | TBD |
+| 2 | TBD | Wenhe Zhang, Jiaying Li, Yu Hou, Yuhan Shao | Wenhe Zhang | TBD |
 
 **Presentation Schedule**
 | Time Slots | Team ID and Name |
