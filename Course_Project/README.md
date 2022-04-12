@@ -3,7 +3,7 @@ For Course Project, each group can firstly create their own github code repo, an
 **Project Team Sign-Up Table (3-4 people / team)**
 | Team ID | Team Name | Team Members | Team Leader | Project Title (TBD) |
 | ------ | ------ | ------ | ------ | ------ |
-
+| 1 | Boba | Jessica Ho (jessicaho44@g.ucla.edu), Wenqi Zou (wenqizou625@g.ucla.edu), Rosa Garza (rgarza96@g.ucla.edu) | Jessica Ho (jessicaho44@g.ucla.edu) | TBD |
 
 **Presentation Schedule**
 | Time Slots | Team ID and Name |
