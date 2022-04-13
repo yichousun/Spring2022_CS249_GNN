@@ -7,6 +7,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 2 | TBD | Wenhe Zhang, Jiaying Li, Yu Hou, Yuhan Shao | Wenhe Zhang | TBD |
 | 3 | TBD | Ayushi Agarwal, Shardul Parab, Harini Suresh | Ayushi Agarwal | TBD |
 | 4 | TBD | Yusong Ye | Yusong Ye | Self-Supervision on Dynamic Graphs |
+| 5 | TBD | Yikai Zhu | Yikai Zhu | noise aware knowledge graph embedding |
 
 **Presentation Schedule**
 | Time Slots | Team ID and Name |
