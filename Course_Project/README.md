@@ -12,6 +12,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 7 | TBD | Xinyu Zhao, Hang Zhang, Weihao Jiang, Nuocheng Pan | TBD | Active Learning(TBD)|
 | 8 | TBD | Feiyang Chen,	Yongqian Li, YuanChing Lin,	Ruoyu He | TBD | TBD |
 | 9 | TBD | Guofeng Zhang, Jingchen Tang, Yu Zhou, Zihao Dong | TBD | TBD |
+| 10 | TBD | Dipti Ranjan Sahu, Siddhant Patil, Shivam Patel, Nischal Chandra | Siddhant Patil (siddhantpatil@g.ucla.edu) | TBD |
 
 **Presentation Schedule**
 | Time Slots | Team ID and Name |
