@@ -8,7 +8,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 3 | TBD | Ayushi Agarwal, Shardul Parab, Harini Suresh | Ayushi Agarwal | TBD |
 | 4 | TBD | Yusong Ye | Yusong Ye | Self-Supervision on Dynamic Graphs |
 | 5 | TBD | Yikai Zhu | Yikai Zhu | noise aware knowledge graph embedding |
-| 6 | TBD | Zongyang Yue, Baiting Zhu (baitingzbt@g.ucla.edu) | Zongyang Yue | Explainability of Graph Neural Networks |
+| 6 | TBD | Zongyang Yue (zongyangyue@g.ucla.edu), Baiting Zhu (baitingzbt@g.ucla.edu) | Zongyang Yue | Explainability of Graph Neural Networks |
 
 **Presentation Schedule**
 | Time Slots | Team ID and Name |
