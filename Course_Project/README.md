@@ -3,7 +3,7 @@ For Course Project, each group can firstly create their own github code repo, an
 **Project Team Sign-Up Table (3-4 people / team)**
 | Team ID | Team Name | Team Members | Team Leader | Project Title (TBD) |
 | ------ | ------ | ------ | ------ | ------ |
-| 1 | Boba | Jessica Ho (jessicaho44@g.ucla.edu), Wenqi Zou (wenqizou625@g.ucla.edu), Rosa Garza (rgarza96@g.ucla.edu) | Jessica Ho (jessicaho44@g.ucla.edu) | TBD |
+| 1 | Boba | Jessica Ho (jessicaho44@g.ucla.edu), Wenqi Zou (wenqizou625@g.ucla.edu), Rosa Garza (rgarza96@g.ucla.edu), Brian Tagle (taglebrian@gmail.com) | Jessica Ho (jessicaho44@g.ucla.edu) | TBD |
 | 2 | TBD | Wenhe Zhang (wenhezhang9901@163.com), Jiaying Li (jl64@ucla.edu), Yu Hou (yuhou316@ucla.edu), Yuhan Shao (yuhan17@g.ucla.edu) | Wenhe Zhang (wenhezhang9901@163.com) | TBD |
 | 3 | TBD | Ayushi Agarwal, Shardul Parab, Harini Suresh | Ayushi Agarwal | TBD |
 | 4 | TBD | Yusong Ye | Yusong Ye | Self-Supervision on Dynamic Graphs |
