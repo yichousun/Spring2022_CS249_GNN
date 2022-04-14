@@ -15,6 +15,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 10 | TBD | Dipti Ranjan Sahu, Siddhant Patil, Shivam Patel, Nischal Chandra | Siddhant Patil (siddhantpatil@g.ucla.edu) | TBD |
 | 11 | TBD | Rakesh Bal, Rahul Kapur, Rustem Aygun, Ashwath Radhachandran | TBD | TBD |
 | 12 | TBD | Aditya Jain, Manish Reddy Gottimukkula, Nilay Pochhi | TBD | TBD |
+| 13 | TBD | Xiaxuan Gao, Zhicheng Ren, Yuxin Wu, Yifu Yuan | TBD | TBD |
 
 **Presentation Schedule**
 | Time Slots | Team ID and Name |
