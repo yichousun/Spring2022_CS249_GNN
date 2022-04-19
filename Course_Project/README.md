@@ -16,6 +16,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 11 | TBD | Rakesh Bal, Rahul Kapur, Rustem Aygun, Ashwath Radhachandran | TBD | TBD |
 | 12 | TBD | Aditya Jain, Manish Reddy Gottimukkula, Nilay Pochhi | TBD | TBD |
 | 13 | TBD | Xiaxuan Gao, Zhicheng Ren, Yuxin Wu, Yifu Yuan | TBD | TBD |
+| 14 | TBD | Alexander Taylor, Yihang Guo, Jingdong Gao, Ted Zadouri | TBD | TBD |
 
 **Presentation Schedule**
 | Time Slots | Team ID and Name |
