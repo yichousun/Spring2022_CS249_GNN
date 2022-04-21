@@ -17,7 +17,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 |4/12|1.	Maximilian Nickel, Douwe Kiela, Poincaré Embeddings for Learning Hierarchical Representations, NeurIPS 2017. https://arxiv.org/pdf/1705.08039.pdf |Manish Reddy|Nilay Pochhi|Aditya Jain| Brian Tagle|https://drive.google.com/drive/folders/1ThhgTXh3gPm_azYYBxosHQe-QJ3eVY6i?usp=sharing|
 |4/14|2.	Ines Chami, Rex Ying, Christopher Ré, Jure Leskovec, Hyperbolic Graph Convolutional Neural Networks, NeurIPS 2019. https://arxiv.org/abs/1910.12933 |Rustem Aygun||||https://drive.google.com/drive/folders/1wu8m5sKvtJJVzVQPVtKjwYiQH5btpMiQ?usp=sharing|
 |4/19|3.	Shen Wang, Xiaokai Wei, Cicero Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew O. Arnold, Bing Xiang, Philip S. Yu, Isabel F. Cruz, Mixed-curvature multi-relational graph neural network for knowledge graph completion, WWW 2021. https://assets.amazon.science/0c/9d/51d98f1040b1bfa7dc52d1015750/mixed-curvature-multi-relational-graph-neural-network-for-knowledge-graph-completion.pdf |Sahil Bansal|Vivek Arora|Vaibhav Kumar|Andrei Rekesh|https://drive.google.com/drive/folders/1yf3uYQofebK9VJervi0ZmaVjAm0I-1YU?usp=sharing|
-|4/21|4.	Victor Garcia Satorras, Emiel Hoogeboom, Max Welling, E(n) Equivariant Graph Neural Networks, ICML’21. https://arxiv.org/abs/2102.09844 |Yu Zhou|Jingchen Tang|Zihao Dong|Guofeng Zhang||
+|4/21|4.	Victor Garcia Satorras, Emiel Hoogeboom, Max Welling, E(n) Equivariant Graph Neural Networks, ICML’21. https://arxiv.org/abs/2102.09844 |Yu Zhou|Jingchen Tang|Zihao Dong|Guofeng Zhang|https://drive.google.com/drive/folders/1Obt197aMgtK2qbhhUApfedFzImo9FgM6|
 
 
 [Optional Reading]
