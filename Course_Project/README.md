@@ -8,7 +8,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 3 | TBD | Ayushi Agarwal (ayushi15@g.ucla.edu), Shardul Parab (shardulparab@g.ucla.edu), Harini Suresh (sharini16@g.ucla.edu) | Ayushi Agarwal (ayushi15@g.ucla.edu) | GNN for Knowledge Graphs |
 | 4 | TBD | Yusong Ye | Yusong Ye | Self-Supervision on Dynamic Graphs |
 | 5 | TBD | Yikai Zhu | Yikai Zhu | noise aware knowledge graph embedding |
-| 6 | TBD | Zongyang Yue (zongyangyue@g.ucla.edu), Baiting Zhu (baitingzbt@g.ucla.edu) | Wenhan Yang (hangeryang18@g.ucla.edu | Zongyang Yue | Explainability of Graph Neural Networks |
+| 6 | TBD | Zongyang Yue (zongyangyue@g.ucla.edu), Baiting Zhu (baitingzbt@g.ucla.edu), Wenhan Yang (hangeryang18@g.ucla.edu | Zongyang Yue | Explainability of Graph Neural Networks |
 | 7 | TBD | Xinyu Zhao, Hang Zhang, Weihao Jiang, Nuocheng Pan | TBD | Active Learning(TBD)|
 | 8 | TBD | Feiyang Chen,	Yongqian Li, YuanChing Lin,	Ruoyu He | TBD | TBD |
 | 9 | TBD | Guofeng Zhang, Jingchen Tang, Yu Zhou, Zihao Dong | TBD | TBD |
