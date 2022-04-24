@@ -14,7 +14,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 9 | TBD | Guofeng Zhang, Jingchen Tang, Yu Zhou, Zihao Dong | Yu Zhou | TBD |
 | 10 | TBD | Dipti Ranjan Sahu, Siddhant Patil, Shivam Patel, Nischal Chandra | Siddhant Patil (siddhantpatil@g.ucla.edu) | TBD |
 | 11 | TBD | Rakesh Bal, Rahul Kapur, Rustem Aygun, Ashwath Radhachandran | TBD | TBD |
-| 12 | TBD | Aditya Jain, Manish Reddy Gottimukkula, Nilay Pochhi | TBD | TBD |
+| 12 | TBD | Aditya Jain, Manish Reddy Gottimukkula, Nilay Pochhi, Armaan Abraham | TBD | TBD |
 | 13 | TBD | Xiaxuan Gao, Zhicheng Ren, Yuxin Wu, Yifu Yuan | Zhicheng Ren | TBD |
 | 14 | TBD | Alexander Taylor, Yihang Guo, Jingdong Gao, Ted Zadouri | TBD | TBD |
 | 15 | TBD | Sahil Bansal (sahilbansal@g.ucla.edu), Vivek Arora (vivekarora10@g.ucla.edu), Vaibhav Kumar (vaibhavk@cs.ucla.edu), Andrei Rekesh (drei@g.ucla.edu)| Sahil Bansal (sahilbansal@g.ucla.edu) | Neural Network Pruning via Relational Graphs |
