@@ -13,7 +13,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 8 | TBD | Feiyang Chen,	Yongqian Li, YuanChing Lin,	Ruoyu He | TBD | TBD |
 | 9 | TBD | Guofeng Zhang, Jingchen Tang, Yu Zhou, Zihao Dong | Yu Zhou | TBD |
 | 10 | TBD | Siddhant Patil, Dipti Ranjan Sahu, Shivam Patel, Nischal Chandra | Siddhant Patil (siddhantpatil@g.ucla.edu) | Boosting GNN’s Generalization via Graph Data Augmentation |
-| 11 | TBD | Rakesh Bal, Rahul Kapur, Rustem Aygun, Ashwath Radhachandran | TBD | TBD |
+| 11 | TBD | Rakesh Bal (rakeshbal99@g.ucla.edu), Rahul Kapur (rahulkapur@g.ucla.edu), Rustem Aygun (canaygun10@gmail.com), Ashwath Radhachandran (ashwathradha123@g.ucla.edu) | Rakesh Bal (rakeshbal99@g.ucla.edu) | Multilingual Knowledge Graph Completion with Zero Seed Alignment |
 | 12 | TBD | Aditya Jain, Manish Reddy Gottimukkula, Nilay Pochhi | TBD | TBD |
 | 13 | TBD | Xiaxuan Gao, Zhicheng Ren, Yuxin Wu, Yifu Yuan | Zhicheng Ren | TBD |
 | 14 | TBD | Alexander Taylor, Yihang Guo, Jingdong Gao, Ted Zadouri | TBD | TBD |
