@@ -18,6 +18,8 @@ For Course Project, each group can firstly create their own github code repo, an
 | 13 | TBD | Xiaxuan Gao, Zhicheng Ren, Yuxin Wu, Yifu Yuan | Zhicheng Ren | TBD |
 | 14 | TBD | Alexander Taylor, Yihang Guo, Jingdong Gao, Ted Zadouri | TBD | TBD |
 | 15 | TBD | Sahil Bansal (sahilbansal@g.ucla.edu), Vivek Arora (vivekarora10@g.ucla.edu), Vaibhav Kumar (vaibhavk@cs.ucla.edu), Andrei Rekesh (drei@g.ucla.edu)| Sahil Bansal (sahilbansal@g.ucla.edu) | Neural Network Pruning via Relational Graphs |
+| 15 | TBD | Sahil Bansal (sahilbansal@g.ucla.edu), Vivek Arora (vivekarora10@g.ucla.edu), Vaibhav Kumar (vaibhavk@cs.ucla.edu), Andrei Rekesh (drei@g.ucla.edu)| Sahil Bansal (sahilbansal@g.ucla.edu) | Neural Network Pruning via Relational Graphs |
+| 16 | TBD | Armaan Abraham | Armaan Abraham | TBD |
 
 **Presentation Schedule**
 | Time Slots | Team ID and Name |
