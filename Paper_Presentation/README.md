@@ -47,7 +47,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
 |5/10|1.	Avishek Joey Bose, William Hamilton, Compositional Fairness Constraints for Graph Embeddings, ICML’19. https://proceedings.mlr.press/v97/bose19a.html |Jingdong Gao|Rakesh Bal|Yihang Guo|Wenhan Yang|https://drive.google.com/drive/folders/1ZVv5r_OfMywjf8KZdZdbR8lRWolhOtUD?usp=sharing|
-|5/12|2.	Ying-Xin Wu, Xiang Wang, An Zhang, Xiangnan He, Tat-Seng Chua, Discovering Invariant Rationales for Graph Neural Networks, ICLR 2022. https://arxiv.org/abs/2201.12872 |Feiyang Chen|Yongqian Li|YuanChing Lin|Ruoyu He||
+|5/12|2.	Ying-Xin Wu, Xiang Wang, An Zhang, Xiangnan He, Tat-Seng Chua, Discovering Invariant Rationales for Graph Neural Networks, ICLR 2022. https://arxiv.org/abs/2201.12872 |Feiyang Chen|Yongqian Li|YuanChing Lin|Ruoyu He|| https://drive.google.com/drive/folders/1JhgMtjT38TMohIQLCqYIrp7Vvttt9WVj?usp=sharing
 
 [Optional Reading]
 - Matej Zečević, Devendra Singh Dhami, Petar Veličković, Kristian Kersting, Relating Graph Neural Networks to Structural Causal Models, 2022. https://arxiv.org/abs/2109.04173
