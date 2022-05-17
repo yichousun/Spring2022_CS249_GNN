@@ -57,7 +57,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ------ | ------ |------ | ------ |------ | ------ |------ |
-|5/17|1.	Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter, Juan Pablo Silva, The Logical Expressiveness of Graph Neural Networks, ICLR 2020. https://openreview.net/forum?id=r1lZ7AEKvB |Xinyu Zhao|Haowei Jiang|Nuocheng Pan|Hang Zhang||
+|5/17|1.	Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter, Juan Pablo Silva, The Logical Expressiveness of Graph Neural Networks, ICLR 2020. https://openreview.net/forum?id=r1lZ7AEKvB |Xinyu Zhao|Haowei Jiang|Nuocheng Pan|Hang Zhang|https://drive.google.com/drive/folders/1Y_qDdwAJ8_gWDXTDxH-dpuTZ_qSk1Z4S?usp=sharing|
 |5/19|2.	Xuelu Chen, Ziniu Hu, and Yizhou Sun, Fuzzy Logic based Logical Query Answering on Knowledge Graphs, AAAI 2022. https://arxiv.org/abs/2108.02390 |Baiting Zhu|Zongyang Yue|Jessica Ho|Rosa Garza||
 
 [Optional Reading]

@@ -9,7 +9,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 4 | TBD | Yusong Ye | Yusong Ye | Self-Supervision on Dynamic Graphs |
 | 5 | TBD | Yikai Zhu | Yikai Zhu | adversarial attack on knowledge graph embedding models |
 | 6 | TBD | Zongyang Yue (zongyangyue@g.ucla.edu), Baiting Zhu (baitingzbt@g.ucla.edu), Wenhan Yang (hangeryang18@g.ucla.edu), Dylan Kupsh (dkupsh@g.ucla.edu) | Zongyang Yue | Explainability of Graph Neural Networks |
-| 7 | TBD | Xinyu Zhao, Hang Zhang, Weihao Jiang, Nuocheng Pan | Xinyu Zhao(xinyuz9611@g.ucla.edu) | One-step Active Learning for Heterogeneous Network|
+| 7 | TBD | Xinyu Zhao, Hang Zhang, Haowei Jiang, Nuocheng Pan | Xinyu Zhao(xinyuz9611@g.ucla.edu) | One-step Active Learning for Heterogeneous Network|
 | 8 | TBD | Feiyang Chen,	Yongqian Li, YuanChing Lin,	Ruoyu He | Feiyang Chen (fychen@cs.ucla.edu) | Sampling for Heterogeneous Graph Neural Networks |
 | 9 | TBD | Guofeng Zhang, Jingchen Tang, Yu Zhou, Zihao Dong | Yu Zhou (bryanzhou008@ucla.edu) | Strict Black-box Adversiarial Attack for Graph Neural Networks |
 | 10 | TBD | Siddhant Patil, Dipti Ranjan Sahu, Shivam Patel, Nischal Chandra | Siddhant Patil (siddhantpatil@g.ucla.edu) | Boosting GNN’s Generalization via Graph Data Augmentation |
