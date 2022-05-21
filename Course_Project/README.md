@@ -18,10 +18,25 @@ For Course Project, each group can firstly create their own github code repo, an
 | 13 | TBD | Xiaxuan Gao, Zhicheng Ren, Yuxin Wu, Yifu Yuan | Zhicheng Ren | TBD |
 | 14 | TBD | Alexander Taylor, Yihang Guo, Jingdong Gao, Ted Zadouri, Armaan Abraham | TBD | TBD |
 | 15 | TBD | Sahil Bansal (sahilbansal@g.ucla.edu), Vivek Arora (vivekarora10@g.ucla.edu), Vaibhav Kumar (vaibhavk@cs.ucla.edu), Andrei Rekesh (drei@g.ucla.edu)| Sahil Bansal (sahilbansal@g.ucla.edu) | Neural Network Pruning via Relational Graphs |
-| 15 | TBD | Sahil Bansal (sahilbansal@g.ucla.edu), Vivek Arora (vivekarora10@g.ucla.edu), Vaibhav Kumar (vaibhavk@cs.ucla.edu), Andrei Rekesh (drei@g.ucla.edu)| Sahil Bansal (sahilbansal@g.ucla.edu) | Neural Network Pruning via Relational Graphs |
+
 
 **Presentation Schedule**
-| Time Slots | Team ID and Name |
+| Time Slots | Team ID |
 | ------ | ------ |
-| 5/31 10:00 - 10:15 | 1. XXX|
+| 5/31 10:00 - 10:15 | |
+| 5/31 10:15 - 10:30 | |
+| 5/31 10:30 - 10:45 | |
+| 5/31 10:45 - 11:00 | |
+| 5/31 11:00 - 11:15 | |
+| 5/31 11:15 - 11:30 | |
+| 5/31 11:30 - 11:45 | |
+| 6/2  10:00 - 10:15 | |
+| 6/2  10:15 - 10:30 | |
+| 6/2  10:30 - 10:45 | |
+| 6/2  10:45 - 11:00 | |
+| 6/2  11:00 - 11:15 | |
+| 6/2  11:15 - 11:30 | |
+| 6/2  11:30 - 11:45 | |
+| 6/2  11:45 - 12:00 | |
+
 
