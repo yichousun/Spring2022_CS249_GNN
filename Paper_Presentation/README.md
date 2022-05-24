@@ -66,7 +66,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 ###### Algorithms and Programming Languages  (2 lectures)
 | Date | Paper | Presenter 1 | Presenter 2 | Presenter 3 | Presenter 4 | Presentation Folder Link |
 | ---- | ------ |------ | ------ |------ | ------ |------ |
-|5/24|1.	Petar Veličković, Rex Ying, Matilde Padovano, Raia Hadsell, Charles Blundell, Neural Execution of Graph Algorithms. ICLR’ 2020. https://arxiv.org/abs/1910.10593 |Dylan Kupsh|Yikai Zhu|Rahul Kapur|Yusong Ye||
+|5/24|1.	Petar Veličković, Rex Ying, Matilde Padovano, Raia Hadsell, Charles Blundell, Neural Execution of Graph Algorithms. ICLR’ 2020. https://arxiv.org/abs/1910.10593 |Dylan Kupsh|Yikai Zhu|Rahul Kapur|Yusong Ye|https://drive.google.com/drive/u/0/folders/1JuSyStYWRZXWhev1n2_VAMkvUXx8R82K?ths=true|
 |5/26|2.	Chris Cummins, Zacharias V. Fisches, Tal Ben-Nun, Torsten Hoefler, Michael F P O’Boyle, Hugh Leather, ProGraML: A Graph-based Program Representation for Data Flow Analysis and Compiler Optimizations, ICML 2021. https://proceedings.mlr.press/v139/cummins21a.html |Yu Hou|Yuhan Shao|Wenhe Zhang|Jiaying Li||
 
 [Optional Reading]
