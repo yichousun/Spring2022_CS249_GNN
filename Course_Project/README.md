@@ -37,6 +37,6 @@ For Course Project, each group can firstly create their own github code repo, an
 | 6/2  11:00 - 11:15 | Group11 |
 | 6/2  11:15 - 11:30 | Group8 |
 | 6/2  11:30 - 11:45 | Group15|
-| 6/2  11:45 - 12:00 | |
+| 6/2  11:45 - 12:00 | Group 12|
 
 
