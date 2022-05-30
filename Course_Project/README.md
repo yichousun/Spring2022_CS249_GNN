@@ -7,7 +7,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 2 | TBD | Wenhe Zhang (wenhezhang9901@163.com), Jiaying Li (jl64@ucla.edu), Yu Hou (yuhou316@ucla.edu), Yuhan Shao (yuhan17@g.ucla.edu) | Wenhe Zhang (wenhezhang9901@163.com) | Learning-to-Hash with GNN for Efficient and Effective Recommender Systems |
 | 3 | TBD | Ayushi Agarwal (ayushi15@g.ucla.edu), Shardul Parab (shardulparab@g.ucla.edu), Harini Suresh (sharini16@g.ucla.edu) | Ayushi Agarwal (ayushi15@g.ucla.edu) | GNN for Knowledge Graphs |
 | 4 | TBD | Yusong Ye | Yusong Ye | Self-Supervision on Dynamic Graphs |
-| 5 | TBD | Yikai Zhu | Yikai Zhu | [adversarial attack on knowledge graph embedding models](https://github.com/zyksir/AdversarialAttackOnKGE) |
+| 5 | TBD | Yikai Zhu(zhuyikai@g.ucla.edu) | Yikai Zhu | [Adversarial Attack on Knowledge Graph Embedding Models](https://github.com/zyksir/AdversarialAttackOnKGE) [slides](https://docs.google.com/presentation/d/1d2ZpMLqegKAl38LpqCNYHOwZKrT2CqpEfIb9Q5LtMVk/edit#slide=id.gf1a30cd743_2_69) |
 | 6 | TBD | Zongyang Yue (zongyangyue@g.ucla.edu), Baiting Zhu (baitingzbt@g.ucla.edu), Wenhan Yang (hangeryang18@g.ucla.edu), Dylan Kupsh (dkupsh@g.ucla.edu) | Zongyang Yue | Explainability of Graph Neural Networks |
 | 7 | TBD | Xinyu Zhao, Hang Zhang, Haowei Jiang, Nuocheng Pan | Xinyu Zhao(xinyuz9611@g.ucla.edu) | One-step Active Learning for Heterogeneous Network|
 | 8 | TBD | Feiyang Chen,	Yongqian Li, YuanChing Lin,	Ruoyu He | Feiyang Chen (fychen@cs.ucla.edu) | Sampling for Heterogeneous Graph Neural Networks |
@@ -25,7 +25,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | ------ | ------ |
 | 5/31 10:00 - 10:15 | Group4|
 | 5/31 10:15 - 10:30 | Group13 |
-| 5/31 10:30 - 10:45 | Group5 |
+| 5/31 10:30 - 10:45 | [Group5](https://docs.google.com/presentation/d/1d2ZpMLqegKAl38LpqCNYHOwZKrT2CqpEfIb9Q5LtMVk/edit#slide=id.gf1a30cd743_2_69) |
 | 5/31 10:45 - 11:00 | Group 1 |
 | 5/31 11:00 - 11:15 | Group 14|
 | 5/31 11:15 - 11:30 | Group 10|
