@@ -15,7 +15,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 10 | TBD | Siddhant Patil, Dipti Ranjan Sahu, Shivam Patel, Nischal Chandra | Siddhant Patil (siddhantpatil@g.ucla.edu) | Boosting GNN’s Generalization via Graph Data Augmentation |
 | 11 | TBD | Rakesh Bal (rakeshbal99@g.ucla.edu), Rahul Kapur (rahulkapur@g.ucla.edu), Rustem Aygun (canaygun10@gmail.com), Ashwath Radhachandran (ashwathradha123@g.ucla.edu) | Rakesh Bal (rakeshbal99@g.ucla.edu) | Multilingual Knowledge Graph Completion with Zero Seed Alignment |
 | 12 | TBD | Aditya Jain, Manish Reddy Gottimukkula, Nilay Pochhi | Manish Reddy Gottimukkula | Recursive rule mining in Knowledge Graphs |
-| 13 | TBD | Xiaxuan Gao, Zhicheng Ren, Yuxin Wu, Yifu Yuan | Zhicheng Ren | On the improvement of active learning for graphs |
+| 13 | TBD | Xiaxuan Gao, Zhicheng Ren, Yuxin Wu, Yifu Yuan | Zhicheng Ren (franklinnwren@g.ucla.edu) | On the improvement of active learning for graphs |
 | 14 | TBD | Alexander Taylor, Yihang Guo, Jingdong Gao, Ted Zadouri, Armaan Abraham | Alexander Taylor | Reptile for Multitask Graph Execution |
 | 15 | TBD | Sahil Bansal (sahilbansal@g.ucla.edu), Vivek Arora (vivekarora10@g.ucla.edu), Vaibhav Kumar (vaibhavk@cs.ucla.edu), Andrei Rekesh (drei@g.ucla.edu)| Sahil Bansal (sahilbansal@g.ucla.edu) | Neural Network Pruning via Relational Graphs |
 
