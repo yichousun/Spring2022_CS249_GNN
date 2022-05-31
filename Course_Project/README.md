@@ -26,7 +26,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 5/31 10:00 - 10:15 | [Group4](https://docs.google.com/presentation/d/1Qiotcemo9ltyEMBIZsWn0KOzIwhyaYiF2HvB4pN_eNo/edit#slide=id.g12fb7a60e37_0_13)|
 | 5/31 10:15 - 10:30 | [Group13](https://docs.google.com/presentation/d/1KtKbEp_2jKhpjs0WcCo6ramO0PeFL4TFn77jfi3XSTw/edit#slide=id.g12fb7e52101_1_16) |
 | 5/31 10:30 - 10:45 | [Group5](https://docs.google.com/presentation/d/1d2ZpMLqegKAl38LpqCNYHOwZKrT2CqpEfIb9Q5LtMVk/edit#slide=id.gf1a30cd743_2_69) |
-| 5/31 10:45 - 11:00 | Group 1 |
+| 5/31 10:45 - 11:00 | [Group 1](https://docs.google.com/presentation/d/1YoXgXCn69WyzkuobMne3ZFl6u_B-69hmHz8NOGtr90k/edit?usp=sharing) |
 | 5/31 11:00 - 11:15 | [Group 14](https://docs.google.com/presentation/d/1W64IyPe3-xrGWTpf6YaK9DS3-JSNfJEkqlU55NbmP4s/edit?usp=sharing)|
 | 5/31 11:15 - 11:30 | [Group 10](https://docs.google.com/presentation/d/1v8ZtnjaWCd4AYN1Zwlr6amCY_0pIz_iKYsEKmoqbOjA/edit?usp=sharing) |
 | 5/31 11:30 - 11:45 | Group 9|
