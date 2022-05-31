@@ -1,0 +1,15 @@
+name: age_gat
+channels:
+  - anaconda
+  - defaults
+  - intel
+  - conda-forge
+  - jjh_cio_testing
+dependencies:
+  - networkx=2.1
+  - scikit-learn
+  - scipy=1.0.0
+  - numpy=1.14.1
+  - cudatoolkit=9.0
+  - pip:
+      - tensorflow-gpu==1.6.0

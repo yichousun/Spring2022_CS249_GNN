@@ -1,0 +1,16 @@
+name: age_sgc
+channels:
+  - anaconda
+  - defaults
+  - intel
+  - conda-forge
+  - pytorch
+dependencies:
+  - networkx=1.11
+  - scikit-learn
+  - scipy
+  - numpy
+  - hyperopt==0.1.1
+  - pytorch=1.7.1
+  - torchvision=0.8.2
+  - torchaudio==0.7.2

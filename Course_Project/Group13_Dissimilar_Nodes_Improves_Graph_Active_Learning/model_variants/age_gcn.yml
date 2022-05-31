@@ -1,0 +1,13 @@
+name: age_gcn
+channels:
+  - anaconda
+  - defaults
+  - intel
+  - pytorch
+dependencies:
+  - tensorflow-gpu=1.15
+  - networkx
+  - scikit-learn
+  - pytorch==1.2.0
+  - torchvision==0.4.0
+  - cudatoolkit=10.0
