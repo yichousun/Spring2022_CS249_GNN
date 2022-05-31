@@ -23,7 +23,7 @@ For Course Project, each group can firstly create their own github code repo, an
 **Presentation Schedule**
 | Time Slots | Team ID |
 | ------ | ------ |
-| 5/31 10:00 - 10:15 | Group4|
+| 5/31 10:00 - 10:15 | [Group4] (https://docs.google.com/presentation/d/1Qiotcemo9ltyEMBIZsWn0KOzIwhyaYiF2HvB4pN_eNo/edit#slide=id.g12fb7a60e37_0_13)|
 | 5/31 10:15 - 10:30 | Group13 |
 | 5/31 10:30 - 10:45 | [Group5](https://docs.google.com/presentation/d/1d2ZpMLqegKAl38LpqCNYHOwZKrT2CqpEfIb9Q5LtMVk/edit#slide=id.gf1a30cd743_2_69) |
 | 5/31 10:45 - 11:00 | Group 1 |
