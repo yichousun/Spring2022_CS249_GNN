@@ -26,12 +26,16 @@ The detailed architecture can be referred from the report.
 The Jupyter Notebook experiment.ipynb in the folder provides some examples on how we can run the code.
 For example:
 1. To run the code with only GCN, use the following command:
+
 python main-onlygcn.py --imbalance --run_folder='runs/Run2_28_05_2022_cora_onlygcn' --dataset=cora --setting='recon_newG' --lr=0.01 --weight_decay=5e-4 --nhid=16 --dropout=0.5 --model=gcn
 2. To run the code with GCN and oversampling:
+
 python main.py --imbalance --run_folder='runs/Run3_28_05_2022_cora_oversampling' --dataset=cora --setting='upsampling' --lr=0.01 --weight_decay=5e-4 --nhid=16 --dropout=0.5 --model=gcn
 3. To run the code with GCN and reweighting:
+
 python main.py --imbalance --run_folder='runs/Run4_28_05_2022_cora_reweight' --dataset=cora --setting='reweight' --lr=0.01 --weight_decay=5e-4 --nhid=16 --dropout=0.5 --model=gcn
 4. To run the code with GCN and GraphSMOTE:
+
 python main.py --imbalance --run_folder='runs/Run1_28_05_2022_cora' --dataset=cora --setting='recon_newG' --lr=0.01 --weight_decay=5e-4 --nhid=16 --dropout=0.5 --model=gcn
 
 Following are the meanings of the flags:
