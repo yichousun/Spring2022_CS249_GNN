@@ -5,7 +5,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | ------ | ------ | ------ | ------ | ------ |
 | 1 | Boba | Jessica Ho (jessicaho44@g.ucla.edu), Wenqi Zou (wenqizou625@g.ucla.edu), Rosa Garza (rgarza96@g.ucla.edu), Brian Tagle (taglebrian@gmail.com) | Jessica Ho (jessicaho44@g.ucla.edu) | Encoding Twitter Network in Euclidean vs Hyperbolic Space |
 | 2 | TBD | Wenhe Zhang (wenhezhang9901@163.com), Jiaying Li (jl64@ucla.edu), Yu Hou (yuhou316@ucla.edu), Yuhan Shao (yuhan17@g.ucla.edu) | Wenhe Zhang (wenhezhang9901@163.com) | Learning-to-Hash with GNN for Efficient and Effective Recommender Systems |
-| 3 | TBD | Ayushi Agarwal (ayushi15@g.ucla.edu), Shardul Parab (shardulparab@g.ucla.edu), Harini Suresh (sharini16@g.ucla.edu) | Ayushi Agarwal (ayushi15@g.ucla.edu) | Anubhav Mittal (anubhavm@g.ucla.edu)| GNN for Knowledge Graphs |
+| 3 | TBD | Ayushi Agarwal (ayushi15@g.ucla.edu), Shardul Parab (shardulparab@g.ucla.edu), Harini Suresh (sharini16@g.ucla.edu), Anubhav Mittal (anubhavm@g.ucla.edu) | Ayushi Agarwal (ayushi15@g.ucla.edu) | Reasoning over Incomplete Knowledge Graph via Graph Structure Learning |
 | 4 | TBD | Yusong Ye | Yusong Ye | Self-Supervision on Dynamic Graphs |
 | 5 | TBD | Yikai Zhu(zhuyikai@g.ucla.edu) | Yikai Zhu | [Adversarial Attack on Knowledge Graph Embedding Models](https://github.com/zyksir/AdversarialAttackOnKGE) [slides](https://docs.google.com/presentation/d/1d2ZpMLqegKAl38LpqCNYHOwZKrT2CqpEfIb9Q5LtMVk/edit#slide=id.gf1a30cd743_2_69) |
 | 6 | TBD | Zongyang Yue (zongyangyue@g.ucla.edu), Baiting Zhu (baitingzbt@g.ucla.edu), Wenhan Yang (hangeryang18@g.ucla.edu), Dylan Kupsh (dkupsh@g.ucla.edu) | Zongyang Yue | Explainability of Graph Neural Networks |
