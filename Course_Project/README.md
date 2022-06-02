@@ -9,7 +9,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 4 | TBD | Yusong Ye | Yusong Ye | Self-Supervision on Dynamic Graphs |
 | 5 | TBD | Yikai Zhu(zhuyikai@g.ucla.edu) | Yikai Zhu | [Adversarial Attack on Knowledge Graph Embedding Models](https://github.com/zyksir/AdversarialAttackOnKGE) [slides](https://docs.google.com/presentation/d/1d2ZpMLqegKAl38LpqCNYHOwZKrT2CqpEfIb9Q5LtMVk/edit#slide=id.gf1a30cd743_2_69) |
 | 6 | TBD | Zongyang Yue (zongyangyue@g.ucla.edu), Baiting Zhu (baitingzbt@g.ucla.edu), Wenhan Yang (hangeryang18@g.ucla.edu), Dylan Kupsh (dkupsh@g.ucla.edu) | Zongyang Yue | Explainability of Graph Neural Networks |
-| 7 | TBD | Xinyu Zhao, Hang Zhang, Haowei Jiang, Nuocheng Pan | Xinyu Zhao(xinyuz9611@g.ucla.edu) | One-step Active Learning for Heterogeneous Network|
+| 7 | TBD | Xinyu Zhao, Hang Zhang, Haowei Jiang, Nuocheng Pan | Xinyu Zhao(xinyuz9611@g.ucla.edu) | ActiveRGCN: Finding Valuable Samples for Heterogeneous GNN Training |
 | 8 | TBD | Feiyang Chen,	Yongqian Li, YuanChing Lin,	Ruoyu He | Feiyang Chen (fychen@cs.ucla.edu) | Sampling for Heterogeneous Graph Neural Networks |
 | 9 | TBD | Guofeng Zhang, Jingchen Tang, Yu Zhou, Zihao Dong | Yu Zhou (bryanzhou008@ucla.edu) | Strict Black-box Adversiarial Attack for Graph Neural Networks |
 | 10 | TBD | Siddhant Patil, Dipti Ranjan Sahu, Shivam Patel, Nischal Chandra | Siddhant Patil (siddhantpatil@g.ucla.edu) | Boosting GNN’s Generalization via Graph Data Augmentation |
@@ -19,8 +19,8 @@ For Course Project, each group can firstly create their own github code repo, an
 | 14 | TBD | Alexander Taylor, Yihang Guo, Jingdong Gao, Ted Zadouri, Armaan Abraham | Alexander Taylor | Reptile for Multitask Graph Execution |
 | 15 | TBD | Sahil Bansal (sahilbansal@g.ucla.edu), Vivek Arora (vivekarora10@g.ucla.edu), Vaibhav Kumar (vaibhavk@cs.ucla.edu), Andrei Rekesh (drei@g.ucla.edu)| Sahil Bansal (sahilbansal@g.ucla.edu) | Neural Network Pruning via Relational Graphs |
 
-
 **Presentation Schedule**
+
 | Time Slots | Team ID |
 | ------ | ------ |
 | 5/31 10:00 - 10:15 | [Group4](https://docs.google.com/presentation/d/1Qiotcemo9ltyEMBIZsWn0KOzIwhyaYiF2HvB4pN_eNo/edit#slide=id.g12fb7a60e37_0_13)|
@@ -33,10 +33,8 @@ For Course Project, each group can firstly create their own github code repo, an
 | 6/2  10:00 - 10:15 | Group 6 |
 | 6/2  10:15 - 10:30 | Group 3 |
 | 6/2  10:30 - 10:45 | [Group 2](https://docs.google.com/presentation/d/12fkvOxhvdcc2kpm9JMjdQS5z6HBvDRIlYD7eGKk9eGg/edit?usp=sharing)|
-| 6/2  10:45 - 11:00 | Group7 |
+| 6/2  10:45 - 11:00 | [Group7](https://docs.google.com/presentation/d/1Ur_Dv-wAPBTq8B7HPKuAX3hHLks-y1ee9kKmB3CJcjM/edit?usp=sharing) |
 | 6/2  11:00 - 11:15 | Group11 |
 | 6/2  11:15 - 11:30 | Group8 |
 | 6/2  11:30 - 11:45 | Group15|
 | 6/2  11:45 - 12:00 | Group 12|
-
-
