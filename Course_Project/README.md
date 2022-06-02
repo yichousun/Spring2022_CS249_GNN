@@ -32,7 +32,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 5/31 11:30 - 11:45 | Group 9|
 | 6/2  10:00 - 10:15 | Group 6 |
 | 6/2  10:15 - 10:30 | Group 3 |
-| 6/2  10:30 - 10:45 | Group2|
+| 6/2  10:30 - 10:45 | [Group 2](https://docs.google.com/presentation/d/12fkvOxhvdcc2kpm9JMjdQS5z6HBvDRIlYD7eGKk9eGg/edit?usp=sharing)|
 | 6/2  10:45 - 11:00 | Group7 |
 | 6/2  11:00 - 11:15 | Group11 |
 | 6/2  11:15 - 11:30 | Group8 |
