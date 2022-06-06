@@ -16,9 +16,9 @@ Folder DS-AGE is our main algorithm, which incorporate our dissimilarity scores 
 
 Folder model_variants includes implementation of other GNN-variants which is adaptable for our main algorithm.
 
-Folder AGE-heterophily includes experiments on heterophilic datasets.
+Folder AGE-Heterophily includes experiments on heterophilic datasets.
 
-Folder KMetriods includes ablation study about the choose of clustering algorithms.
+Folder KMedoids includes ablation studies about the choice of clustering algorithms.
 
 Folder experimental_snapshots includes the .ipynb files which records our experimental results.
 
