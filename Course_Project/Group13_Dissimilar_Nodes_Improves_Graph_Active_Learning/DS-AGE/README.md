@@ -1,6 +1,6 @@
 # DS-AGE 
 
-This code is modified based on the AGE algorithm proposed in https://arxiv.org/abs/1705.05085 using GCN model
+This code is modified based on the AGE algorithm proposed in https://arxiv.org/abs/1705.05085 using GCN model.
 
 ## Dependencies
 
