@@ -345,8 +345,8 @@ for run in range(num_runs):
 print(MAC)
 print(MIC)
 import numpy as np
-print("mean of macrof1 over 30 runs: ", np.mean(MAC))
-print("mean of microf1 over 30 runs: ", np.mean(MIC))
-print("variance of macrof1 over 30 runs: ", np.var(MAC))
-print("variance of microf1 over 30 runs: ", np.var(MIC))
+print("mean of macrof1 over 10 runs: ", np.mean(MAC))
+print("mean of microf1 over 10 runs: ", np.mean(MIC))
+print("variance of macrof1 over 10 runs: ", np.var(MAC))
+print("variance of microf1 over 10 runs: ", np.var(MIC))
 
