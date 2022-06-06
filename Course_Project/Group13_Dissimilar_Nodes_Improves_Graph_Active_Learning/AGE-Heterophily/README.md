@@ -1,6 +1,6 @@
 # DS-AGE-Heterophily
 
-## This code is modified based on the AGE algorithm proposed in https://arxiv.org/abs/1705.05085
+This code is modified based on the AGE algorithm proposed in https://arxiv.org/abs/1705.05085
 
 ## Dependencies
 
