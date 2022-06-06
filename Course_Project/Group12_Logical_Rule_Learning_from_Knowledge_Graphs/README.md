@@ -1,4 +1,4 @@
-# CS249-RLogic-Attention
+# CS249 RLogic Attention
 
 This project aims to learn logical rules from a given knowledge base. RLogic model proposed here is a recursive model to learn the rules consisting body and head, and apply the same to deduce the head relation for unknown paths.
 On top of the base RLogic model, this repo has 3 implementations:
