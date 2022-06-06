@@ -61,3 +61,5 @@ You can use same commands to run the codes on the BlogCatalog dataset by changin
 To run the GNN_mixup.iynb, you will need the graph_conv architecture from the below path
 
 https://github.com/vanoracai/MixupForGraph/blob/main/graph_conv.py
+
+The notebook for running the Mixup code can be found in the folder "GNN Mixup".
