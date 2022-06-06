@@ -1,1 +1,1 @@
-Comparing the performance of KMeans and KMedoids clustering algorithms for density score.
+Comparing the performance of KMeans and KMedoid clustering algorithms for density score.
