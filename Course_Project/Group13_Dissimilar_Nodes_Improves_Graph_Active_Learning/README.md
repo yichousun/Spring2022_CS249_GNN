@@ -1,1 +1,1 @@
-# CS-249-Active-Learning
+# Dissimilar Nodes Improve Graph Active Learning
