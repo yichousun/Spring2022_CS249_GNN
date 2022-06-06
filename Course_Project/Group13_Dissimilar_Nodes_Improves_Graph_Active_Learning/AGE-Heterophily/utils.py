@@ -931,8 +931,9 @@ def chebyshev_polynomials(adj, k):
     return sparse_to_tuple(t_k)
 
 
-def load_newdata(Dataset):
-    NC = 5
+def load_newdata(Dataset, num_classes, ini_labels):
+    NC = num_classes
+    print(NC)
     if Dataset == "chameleon":
         NL = 2277
     elif Dataset == "squirrel":
@@ -975,7 +976,7 @@ def load_newdata(Dataset):
         # print("bug------------")
         # print(nodeidx[0].shape[0])
 
-        ridx = random.sample(range(0, nodeidx[0].shape[0]), 4)
+        ridx = random.sample(range(0, nodeidx[0].shape[0]), ini_labels)
         idx_train += list(np.asarray(idx_traincand)[list(nodeidx[0][ridx])])
     train_mask = sample_mask(idx_train, labels.shape[0])
     val_mask = sample_mask(val_index, labels.shape[0])

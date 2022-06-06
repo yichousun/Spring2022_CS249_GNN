@@ -13,9 +13,9 @@ dataset = sys.argv[1]
 # Load data
 #texas 效果不错
 # 每个class 不一样，每次每个class 选取的数量确是一样的
-newData= ["squirrel", "wisconsin","cornell","chameleon","texas"]
+newData= ["squirrel", "wisconsin", "cornell", "chameleon", "texas"]
 if dataset in newData:
-    adj, features, y_train, y_val, y_test, train_mask, val_mask, test_mask, idx_train, labels, graph  = load_newdata(dataset)
+    adj, features, y_train, y_val, y_test, train_mask, val_mask, test_mask, idx_train, labels, graph  = load_newdata(dataset, int(sys.argv[3]), int(sys.argv[2]))
 else:
     adj, features, y_train, y_val, y_test, train_mask, val_mask, test_mask, idx_train, labels, graph = load_randomalpdata(dataset, 0, 4)
 
