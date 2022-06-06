@@ -39,3 +39,11 @@ conda activate age_sgc
 # example model usage follows:
 python train.py --data cora [your-dataset] [your-active-learning-score]
 ```
+
+## Options
+
+For this section, the available options for [your-dataset] includes "cora" and "citeseer".
+
+The availale options for [your-active-learning-score] includes "baseline" (AGE), "f_similarity" (AGE+FDS), "s_similarity" (AGE+SDS), "e_similarity" (AGE+EDS), and "combined" (AGE+FDS+SDS).
+
+Feel free to include your own dataset and your own score designs in the code.
