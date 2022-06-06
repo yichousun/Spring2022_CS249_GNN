@@ -8,16 +8,7 @@ All following procedures should be run using conda virtual environment.
 
 ### GCN
 
-```bash
-conda env create -f age_gcn.yml
-conda activate age_gcn
-# in repo gcn
-python setup.py install
-# in repo AGE/algcn
-# refer to https://github.com/vwz/AGE for more instructions
-# example model usage follows:
-python original.py 0 4 6 citeseer
-```
+Refer to the folder DS-AGE
 
 ### GAT
 
