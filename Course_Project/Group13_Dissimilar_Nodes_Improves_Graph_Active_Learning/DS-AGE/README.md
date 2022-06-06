@@ -19,3 +19,11 @@ tensorflow==2.8.2
 ```# In the algcn folder
 python train_entropy_density_graphcentral_ts.py [your-active-learning-score] [initial-number-of-labels] [number-of-classes] [your-dataset]
 ```
+
+## Options
+
+For this section, the available options for [your-dataset] includes "cora", "citeseer" and "pubmed".
+
+The availale options for [your-active-learning-score] includes "baseline" (AGE), "f_similarity" (AGE+FDS), "s_similarity" (AGE+SDS), "e_similarity" (AGE+EDS), and "combined" (AGE+FDS+SDS).
+
+Feel free to include your own dataset and your own score designs in the code.
