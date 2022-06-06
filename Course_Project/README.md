@@ -29,7 +29,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 5/31 10:45 - 11:00 | [Group 1](https://docs.google.com/presentation/d/1YoXgXCn69WyzkuobMne3ZFl6u_B-69hmHz8NOGtr90k/edit?usp=sharing) |
 | 5/31 11:00 - 11:15 | [Group 14](https://docs.google.com/presentation/d/1W64IyPe3-xrGWTpf6YaK9DS3-JSNfJEkqlU55NbmP4s/edit?usp=sharing)|
 | 5/31 11:15 - 11:30 | [Group 10](https://docs.google.com/presentation/d/1v8ZtnjaWCd4AYN1Zwlr6amCY_0pIz_iKYsEKmoqbOjA/edit?usp=sharing) |
-| 5/31 11:30 - 11:45 | Group 9|
+| 5/31 11:30 - 11:45 | [Group 9](https://docs.google.com/presentation/d/1WKUtkiqlm0CeH2H3FAsLHqhFTCRu70SWsWTmnWbLwU4/edit#slide=id.g12fa221a655_0_7)|
 | 6/2  10:00 - 10:15 | [Group 6](https://docs.google.com/presentation/d/10f_GU2u2YEl_JL9UcdJyXTDkiqDKTRK3w9jcVFCRF9A/edit?pli=1#slide=id.g130ff5bc5b5_1_2) |
 | 6/2  10:15 - 10:30 | Group 3 |
 | 6/2  10:30 - 10:45 | [Group 2](https://docs.google.com/presentation/d/12fkvOxhvdcc2kpm9JMjdQS5z6HBvDRIlYD7eGKk9eGg/edit?usp=sharing)|
