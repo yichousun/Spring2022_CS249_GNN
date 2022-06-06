@@ -9,4 +9,4 @@ On top of the base RLogic model, this repo has 3 implementations:
 
 As the code is a part of an ongoing research project, the repository is made private. Please email us to get access to the repository. 
 
-Link to the code - [link]{https://github.com/npochhi/CS249-RLogic-Attention/}
+Link to the code - [link](https://github.com/npochhi/CS249-RLogic-Attention/)
