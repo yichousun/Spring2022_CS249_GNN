@@ -5,7 +5,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | ------ | ------ | ------ | ------ | ------ |
 | 1 | Boba | Jessica Ho (jessicaho44@g.ucla.edu), Wenqi Zou (wenqizou625@g.ucla.edu), Rosa Garza (rgarza96@g.ucla.edu), Brian Tagle (taglebrian@gmail.com) | Jessica Ho (jessicaho44@g.ucla.edu) | Encoding Twitter Network in Euclidean vs Hyperbolic Space |
 | 2 | TBD | Wenhe Zhang (wenhezhang9901@163.com), Jiaying Li (jl64@ucla.edu), Yu Hou (yuhou316@ucla.edu), Yuhan Shao (yuhan17@g.ucla.edu) | Wenhe Zhang (wenhezhang9901@163.com) | [Learning-to-Hash with GNN for Efficient and Effective Recommender Systems](https://github.com/YunesHou/Learn_to_Hash_GNN_Recommender_System) [(slides)](https://docs.google.com/presentation/d/12fkvOxhvdcc2kpm9JMjdQS5z6HBvDRIlYD7eGKk9eGg/edit#slide=id.p) |
-| 3 | TBD | Ayushi Agarwal (ayushi15@g.ucla.edu), Shardul Parab (shardulparab@g.ucla.edu), Harini Suresh (sharini16@g.ucla.edu), Anubhav Mittal (anubhavm@g.ucla.edu) | Ayushi Agarwal (ayushi15@g.ucla.edu) | [Reasoning over Incomplete Knowledge Graph via Graph Structure Learning] (https://github.com/shardulparab97/GNNProject_SHAP) |
+| 3 | TBD | Ayushi Agarwal (ayushi15@g.ucla.edu), Shardul Parab (shardulparab@g.ucla.edu), Harini Suresh (sharini16@g.ucla.edu), Anubhav Mittal (anubhavm@g.ucla.edu) | Ayushi Agarwal (ayushi15@g.ucla.edu) | [Reasoning over Incomplete Knowledge Graph via Graph Structure Learning](https://github.com/shardulparab97/GNNProject_SHAP) |
 | 4 | TBD | Yusong Ye | Yusong Ye | Self-Supervision on Dynamic Graphs (https://github.com/YusongYe/Self-Supervision-on-Dynamic-Graph)|
 | 5 | TBD | Yikai Zhu(zhuyikai@g.ucla.edu) | Yikai Zhu | [Adversarial Attack on Knowledge Graph Embedding Models](https://github.com/zyksir/AdversarialAttackOnKGE) [slides](https://docs.google.com/presentation/d/1d2ZpMLqegKAl38LpqCNYHOwZKrT2CqpEfIb9Q5LtMVk/edit#slide=id.gf1a30cd743_2_69) |
 | 6 | TBD | Zongyang Yue (zongyangyue@g.ucla.edu), Baiting Zhu (baitingzbt@g.ucla.edu), Wenhan Yang (hangeryang18@g.ucla.edu), Dylan Kupsh (dkupsh@g.ucla.edu) | Zongyang Yue | [Explainability of Graph Neural Networks](https://github.com/ZongyangYue/CS249ExplainGNN) |
@@ -31,7 +31,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 5/31 11:15 - 11:30 | [Group 10](https://docs.google.com/presentation/d/1v8ZtnjaWCd4AYN1Zwlr6amCY_0pIz_iKYsEKmoqbOjA/edit?usp=sharing) |
 | 5/31 11:30 - 11:45 | [Group 9](https://docs.google.com/presentation/d/1WKUtkiqlm0CeH2H3FAsLHqhFTCRu70SWsWTmnWbLwU4/edit#slide=id.g12fa221a655_0_7)|
 | 6/2  10:00 - 10:15 | [Group 6](https://docs.google.com/presentation/d/10f_GU2u2YEl_JL9UcdJyXTDkiqDKTRK3w9jcVFCRF9A/edit?pli=1#slide=id.g130ff5bc5b5_1_2) |
-| 6/2  10:15 - 10:30 | [Group 3] (https://docs.google.com/presentation/d/1rggCX1lZX7QEkZcddyKldmo293Kov8K0boRKhT0AGMk/edit#slide=id.p)|
+| 6/2  10:15 - 10:30 | [Group 3](https://docs.google.com/presentation/d/1rggCX1lZX7QEkZcddyKldmo293Kov8K0boRKhT0AGMk/edit#slide=id.p)|
 | 6/2  10:30 - 10:45 | [Group 2](https://docs.google.com/presentation/d/12fkvOxhvdcc2kpm9JMjdQS5z6HBvDRIlYD7eGKk9eGg/edit?usp=sharing)|
 | 6/2  10:45 - 11:00 | [Group7](https://docs.google.com/presentation/d/1Ur_Dv-wAPBTq8B7HPKuAX3hHLks-y1ee9kKmB3CJcjM/edit?usp=sharing) |
 | 6/2  11:00 - 11:15 | [Group11](https://docs.google.com/presentation/d/15ONsaV6nTXqn_YZPI0LHSCSQSt9oHuEprAVrAsFuV5E/edit?usp=sharing) |
