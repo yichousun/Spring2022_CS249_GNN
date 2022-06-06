@@ -8,7 +8,7 @@ All following procedures should be run using conda virtual environment.
 
 ### GCN
 
-Refer to the folder DS-AGE
+For GCN backbone (main algorithm), refer to the folder DS-AGE
 
 ### GAT
 
@@ -17,7 +17,7 @@ conda env create -f age_gat.yml
 conda activate age_gat
 # in repo GAT
 # example model usage follows:
-python gat.py cora
+python gat.py [your-dataset] [your-active-learning-score]
 ```
 
 ### SGC
@@ -27,7 +27,7 @@ conda env create -f age_sgc.yml
 conda activate age_sgc
 # in repo SGC
 # example model usage follows:
-python citation.py cora
+python citation.py cora [your-dataset] [your-active-learning-score]
 ```
 
 ### GCNII
@@ -37,5 +37,5 @@ python citation.py cora
 conda activate age_sgc
 # in repo GCNII
 # example model usage follows:
-python train.py --data cora
+python train.py --data cora [your-dataset] [your-active-learning-score]
 ```
