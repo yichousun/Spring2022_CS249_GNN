@@ -22,6 +22,6 @@ Folder "KMedoids" includes ablation studies about the choice of clustering algor
 
 Folder "experimental_snapshots" includes the .ipynb files which record our experimental results.
 
-Document "presentation" is our presentation slides.
+Document "presentation.pptx" is our presentation slides.
 
-And document "report" is the general report for this project.
+And document "report.pdf" is the general report for this project.
