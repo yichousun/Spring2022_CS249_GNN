@@ -7,7 +7,7 @@ from models import GAT
 from utils import process
 import scipy as sc
 from scipy import stats
-
+import sklearn
 from sklearn.metrics import f1_score
 from sklearn.cluster import KMeans
 from sklearn.metrics.pairwise import euclidean_distances
@@ -22,19 +22,24 @@ def one_pass(val_idx, inicount, dataset):
 
     basef = 0
     if dataset == 'citeseer':
+      if sys.argv[2] != 'combined':
         basef = 0.9
-        NCL = 6
+      else:
+        basef = 0.85
+      NCL = 6
     elif dataset == 'cora':
-        basef = 0.995
-        NCL = 7
+      if sys.argv[2] != 'combined':
+        basef = 0.99
+      else:
+        basef = 0.95
+      NCL = 7
     elif dataset == 'pubmed':
-        basef = 0.995
-        NCL = 3
+      basef = 0.995
+      NCL = 3
     else:
-        print('Error! Have to set basef first at line 113 in train_entropy_density_graphcentral_ts.py!')
-        NCL = 0
-        sys.exit()
-
+      print('Error! Have to set basef first at line 113 in train_entropy_density_graphcentral_ts.py!')
+      NCL = 0
+      sys.exit()
     NL = NCL * 20
 
     # training params
@@ -60,11 +65,16 @@ def one_pass(val_idx, inicount, dataset):
     print('residual: ' + str(residual))
     print('nonlinearity: ' + str(nonlinearity))
     print('model: ' + str(model))
-
+    if sys.argv[2] not in ['baseline', 'f_similarity', 's_similarity', 'e_similarity', 'combined']:
+      print("Wrong method!")
+      exit(1)
     # adj, features, y_train, y_val, y_test, train_mask, val_mask, test_mask = process.load_data(dataset)
     adj, features, y_train, y_val, y_test, train_mask, val_mask, test_mask, idx_train, labels = \
         process.load_data_AL(dataset, val_idx, inicount)
-
+    message_passing = adj * adj
+  
+    # Some preprocessing
+    raw_features = features.todense()
     features, spars = process.preprocess_features(features)
 
     nb_nodes = features.shape[0]
@@ -139,7 +149,13 @@ def one_pass(val_idx, inicount, dataset):
             for epoch in range(nb_epochs):
                 gamma = np.random.beta(1, 1.005 - basef ** epoch)
                 # alpha = beta = charlie = (1 - gamma) / 3
-                alpha = beta = (1 - gamma) / 2
+                gamma = np.random.beta(1, 1.005-basef**epoch)
+                if sys.argv[2] == 'baseline':
+                  alpha = beta = delta = epsilon = (1-gamma)/2
+                elif sys.argv[2] == 'combined':
+                  alpha = beta = delta = epsilon = (1-gamma)/4
+                else:
+                  alpha = beta = delta = epsilon = (1-gamma)/3
 
                 '''
                 tr_step = 0
@@ -159,7 +175,7 @@ def one_pass(val_idx, inicount, dataset):
                     tr_step += 1
                 '''
 
-                _, loss_value_tr, acc_tr, embs = sess.run([train_op, loss, accuracy, pred],
+                _, loss_value_tr, acc_tr, embs, embeddings = sess.run([train_op, loss, accuracy, pred, logits[0]],
                                                           feed_dict={
                                                                     ftr_in: features,
                                                                     bias_in: biases,
@@ -169,6 +185,30 @@ def one_pass(val_idx, inicount, dataset):
                                                                     attn_drop: 0.6, ffd_drop: 0.6})
                 # embs = embs[0]
                 if len(idx_train) < NL:
+                    curr_features = raw_features[idx_train, :]
+                    curr_features = sklearn.preprocessing.normalize(curr_features)
+                    raw_features = sklearn.preprocessing.normalize(raw_features)
+                    similarity = []
+                    for i in curr_features:
+                      similarity.append(np.dot(raw_features, np.squeeze([i])))
+                    similarity = np.squeeze(np.array(similarity))
+                    max_similarity = np.max(similarity, axis=0)
+                    simprec = np.asarray([percd(max_similarity,i) for i in range(len(max_similarity))])
+
+                    curr_embeddings = embeddings[idx_train, :]
+                    curr_embeddings = sklearn.preprocessing.normalize(curr_embeddings)
+                    raw_embeddings = sklearn.preprocessing.normalize(embeddings)
+                    em_similarity = []
+                    for i in curr_embeddings:
+                      em_similarity.append(np.dot(raw_embeddings, np.squeeze([i])))
+                    em_similarity = np.squeeze(np.array(em_similarity))
+                    max_em_similarity = np.max(em_similarity, axis=0)
+                    em_simprec = np.asarray([percd(max_em_similarity,i) for i in range(len(max_em_similarity))])
+                    
+                    connectivity = message_passing[idx_train, :]
+                    max_connectivity = np.squeeze(np.array(np.max(connectivity, axis=0).todense()))
+                    connprec = np.asarray([percd(max_connectivity,i) for i in range(len(max_connectivity))])
+
                     entropy = sc.stats.entropy(embs.T)
                     train_mask = process.sample_mask(idx_train, labels.shape[0])
                     # entropy[train_mask+val_mask+test_mask]=-100
@@ -194,7 +234,21 @@ def one_pass(val_idx, inicount, dataset):
                     '''
 
                     # finalweight = alpha * entrperc + beta * edprec + gamma * cenperc + charlie * lossperc
-                    finalweight = alpha * entrperc + beta * edprec + gamma * cenperc
+                    if sys.argv[2] == 'baseline':
+                      finalweight = alpha*entrperc + beta*edprec + gamma*cenperc
+                      print("entropy weight: ", alpha, " density weight: ", beta, "centrality weight: ", gamma)
+                    elif sys.argv[2] == 'f_similarity':
+                      finalweight = alpha*entrperc + beta*edprec + gamma*cenperc + delta*simprec
+                      print("entropy weight: ", alpha, " density weight: ", beta, " centrality weight: ", gamma, " feature similarity weight: ", delta)
+                    elif sys.argv[2] == 's_similarity':
+                      finalweight = alpha*entrperc + beta*edprec + gamma*cenperc + delta*connprec
+                      print("entropy weight: ", alpha, " density weight: ", beta, " centrality weight: ", gamma, " structural similarity weight: ", delta)
+                    elif sys.argv[2] == 'e_similarity':
+                      finalweight = alpha*entrperc + beta*edprec + gamma*cenperc + delta*em_simprec
+                      print("entropy weight: ", alpha, " density weight: ", beta, " centrality weight: ", gamma, " embedding similarity weight: ", delta)
+                    else:
+                      finalweight = alpha*entrperc + beta*edprec + gamma*cenperc + delta*connprec + epsilon*simprec
+                      print("entropy weight: ", alpha, " density weight: ", beta, " centrality weight: ", gamma, " stuructural similarity weight: ", delta, " feature similarity weight: ", epsilon)
 
                     finalweight[train_mask + val_mask[0] + test_mask[0]] = -100
                     select = np.argmax(finalweight)
@@ -307,9 +361,11 @@ def one_pass(val_idx, inicount, dataset):
 
 if __name__ == '__main__':
     macro, micro = [], []
-    for val_idx in range(5):
+    for val_idx in range(11):
         mac, mic = one_pass(val_idx, 4, sys.argv[1])
         macro.append(mac)
         micro.append(mic)
-    print("Average of macrof1 is {}".format(sum(macro) / 5))
-    print("Average of microf1 is {}".format(sum(micro) / 5))
+    print(macro)
+    print(micro)
+    print("Average of macrof1 is {}".format(sum(macro) / 11))
+    print("Average of microf1 is {}".format(sum(micro) / 11))
