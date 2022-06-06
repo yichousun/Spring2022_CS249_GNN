@@ -1,0 +1,127 @@
+{
+    "GAugO": {
+        "cora": {
+            "gcn": {
+                "f1_score": 0.8355999,
+                "std": 0.00456508,
+                "alpha": 1.0,
+                "beta": 0.8,
+                "temp": 1.2,
+                "pretrain_ep": 160,
+                "pretrain_nc": 30,
+                "warmup": 0
+            }
+        },
+        "citeseer": {
+            "gcn": {
+                "f1_score": 0.73305,
+                "std": 0.007172691266184548,
+                "alpha": 0.79,
+                "beta": 2.9,
+                "temp": 0.5,
+                "pretrain_ep": 70,
+                "pretrain_nc": 215,
+                "warmup": 0
+            }
+        },
+        "blogcatalog": {
+            "gcn": {
+                "f1_score": 0.7591396371632766,
+                "std": 0.0024212140447889417,
+                "alpha": 0.43,
+                "beta": 2.8,
+                "temp": 1.0,
+                "pretrain_ep": 5,
+                "pretrain_nc": 235,
+                "warmup": 9
+            }
+        }
+    },
+    "GAugM": {
+        "cora": {
+            "gcn": {
+                "f1_score": 0.8516,
+                "std": 0.0038,
+                "i": 5,
+                "rm_pct": 2,
+                "add_pct": 57
+            }
+        },
+        "citeseer": {
+            "gcn": {
+                "f1_score": 0.7225,
+                "std": 0.0041,
+                "i": 2,
+                "rm_pct": 0,
+                "add_pct": 46
+            }
+        },
+        "blogcatalog": {
+            "gcn": {
+                "f1_score": 0.7756,
+                "std": 0.0039,
+                "i": 1,
+                "rm_pct": 1,
+                "add_pct": 4
+            }
+        }
+    },
+    "AdaEdge": {
+        "cora": {
+            "gcn": {
+                "f1_score": 0.8189500000000001,
+                "std": 0.006807899822999718,
+                "add_first": 1,
+                "n_add": 1050,
+                "n_remove": 4221,
+                "conf_add": 0.9476970623856602,
+                "conf_remove": 0.5800951794747702
+            }
+        },
+        "citeseer": {
+            "gcn": {
+                "f1_score": 0.7280500000000001,
+                "std": 0.007137751746873788,
+                "add_first": 1,
+                "n_add": 3283,
+                "n_remove": 3560,
+                "conf_add": 0.5484196403281784,
+                "conf_remove": 0.8226824409963941
+            }
+        },
+        "blogcatalog": {
+            "gcn": {
+                "f1_score": 0.7534496976360637,
+                "std": 0.0028835493982802426,
+                "add_first": 0,
+                "n_add": 35271,
+                "n_remove": 171361,
+                "conf_add": 0.9785026609262446,
+                "conf_remove": 0.9126355803842885
+            }
+        }
+    },
+    "DropEdge": {
+        "cora": {
+            "gcn": {
+                "f1_score": 0.82005,
+                "std": 0.007877023549539465,
+                "dropedge": 0.06699533884091742
+            }
+        },
+        "citeseer": {
+            "gcn": {
+                "f1_score": 0.7177499999999999,
+                "std": 0.002447456530637913,
+                "dropedge": 0.1275293439912054
+            }
+        },
+        "blogcatalog:": {
+            "gcn": {
+                "f1_score": 0.7542468389224849,
+                "std": 0.0033749113110270027,
+                "dropedge": 0.2700010422226254
+            }
+        }
+    }
+}
