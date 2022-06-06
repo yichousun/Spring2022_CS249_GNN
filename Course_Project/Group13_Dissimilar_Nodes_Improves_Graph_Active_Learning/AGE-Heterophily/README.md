@@ -22,7 +22,9 @@ python train_entropy_density_graphcentral_ts.py [your-active-learning-score] [in
 
 ## Options
 
-For this section, the available options for [your-dataset] includes "cora", "citeseer" and "pubmed".
+For this section, the available options for [your-dataset] includes "chameleon", "squirrel", "taxas", "cornell", and "wisconsin".
+
+The last three datasets are just toy examples which include hundred of nodes only.
 
 The availale options for [your-active-learning-score] includes "baseline" (AGE), "f_similarity" (AGE+FDS), "s_similarity" (AGE+SDS), "e_similarity" (AGE+EDS), "combined" (AGE+FDS+SDS), "random" (None), "c_only" (Centrality), "e_only" (Entropy), "fs_only" (FDS), "ss_only" (SDS), and "es_only" (EDS).
 
