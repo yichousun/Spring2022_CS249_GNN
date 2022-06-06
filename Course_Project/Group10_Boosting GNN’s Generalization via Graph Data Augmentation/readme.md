@@ -54,3 +54,10 @@ Following are the meanings of the flags:
 - model: model for node classification. In our code, we only use GCN.
 
 You can use same commands to run the codes on the BlogCatalog dataset by changing the dataset flag to BlogCatalog and removing --imbalance flag. Cora dataset is balanced. We synthetically make it imbalanced. BlogCatalog dataset is already imbalanced.
+
+# **GNN Mixup**
+**Pre-requisite for running the GNN Mixup Code:**
+
+To run the GNN_mixup.iynb, you will need the graph_conv architecture from the below path
+
+https://github.com/vanoracai/MixupForGraph/blob/main/graph_conv.py
